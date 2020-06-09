@@ -1,0 +1,2 @@
+Prefix plugins/BHTSNE/example
+Plugin BHTSNE inputfile digits.csv outputfile result.csv
